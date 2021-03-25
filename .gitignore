@@ -1,0 +1,12 @@
+.DS_Store
+.Rhistory
+.Rproj.user
+data-raw/*
+R/*
+*.swp
+*.bak
+*.tmp
+*.gcx
+*.aux
+*.log
+*.pdf
