@@ -8,4 +8,11 @@ Larger sample data for the [`redist` package](http://kosukeimai.github.io/redist
 * [`data/nc.rds`](https://github.com/alarm-redist/redist-data/raw/main/data/nc.rds): precints, vote 
   data, and 2013 and 2017 congressional districts for North Carolina.
 
+## Usage
+R code to load a file
+```r
+data_url = "<URL HERE>"
+download.file(data_url, data_path <- tempfile())
+shp = readRDS(data_path)
+```
 
