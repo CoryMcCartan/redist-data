@@ -1,6 +1,6 @@
 # **redist-data**
 
-Larger sample data for the [`redist` package](http://kosukeimai.github.io/redist/).
+Larger sample data for the [`redist` package](http://alarm-redist.github.io/redist/).
 
 ## Contents
 * [`data/king_county.rds`](https://github.com/alarm-redist/redist-data/raw/main/data/king_county.rds): 
