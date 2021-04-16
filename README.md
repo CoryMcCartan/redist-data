@@ -20,6 +20,8 @@ File: [`data/nc.rds`](https://github.com/alarm-redist/redist-data/raw/main/data/
 Contains precincts, vote data, and 2013 and 2017 congressional districts for
 North Carolina.
 
+Processed from the [North Carolina General Assembly](https://www.ncleg.gov/Redistricting/BaseData2016).
+
 ## Usage
 R code to load a file:
 ```r
