@@ -3,9 +3,21 @@
 Larger sample data for the [`redist` package](http://kosukeimai.github.io/redist/).
 
 ## Contents
-* `data/king_county.rds`: precints, vote data, and county council districts for
-  King County, Washington.
-* `data/nc.rds`: precints, vote data, and 2013 and 2017 congressional districts
-  for North Carolina.
+
+### King County Council Districts
+File: `data/king_county.rds`
+
+Contains precincts, vote data, and county council districts for King County,
+Washington.
+
+Processed from Harvard Election Data Archive data.
+  
+Stephen Ansolabehere; Jonathan Rodden, 2011, "Washington Data Files", <https://doi.org/10.7910/DVN/DHWJVE>, Harvard Dataverse, V1
+  
+### North Carolina Congressional Districts
+File: `data/nc.rds`
+
+Contains precincts, vote data, and 2013 and 2017 congressional districts for
+North Carolina.
 
 
