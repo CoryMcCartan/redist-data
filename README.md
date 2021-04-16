@@ -3,7 +3,6 @@
 Larger sample data for the [`redist` package](http://alarm-redist.github.io/redist/).
 
 ## Contents
-<<<<<<< HEAD
 
 ### King County Council Districts
 File: [`data/king_county.rds`](https://github.com/alarm-redist/redist-data/raw/main/data/king_county.rds)
